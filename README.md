@@ -43,7 +43,6 @@ This system provides **continuous and contextual guidance** across:
 ---
 ## Demo
 
-```
 <table align="center" width="50%">
   <!-- TOP ROW: BIG GIF -->
   <tr>
@@ -69,7 +68,6 @@ This system provides **continuous and contextual guidance** across:
   </tr>
 </table>
 
-```
 
 ## Key Features
 
