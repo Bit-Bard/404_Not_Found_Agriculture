@@ -1,7 +1,7 @@
 # 🌎  DhartiQ - Agentic Crop Advisor
 
 
-### *A production-grade (hackathon-ready) **agentic crop advisory system** that supports farmers across crop stages using:*
+### *A production-grade **agentic crop advisory system** that supports farmers across crop stages using:*
 
 <p align="center">
   <img src="DartiQ_Logo.jpeg" alt="DhartiQ - Agentic Crop Advisor" width="150">
