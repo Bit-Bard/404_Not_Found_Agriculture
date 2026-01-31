@@ -42,11 +42,11 @@ This system provides **continuous and contextual guidance** across:
 ---
 ## Demo
 
-<table align="center" width="50%">
+<table align="center" width="40%">
   <!-- TOP ROW: BIG GIF -->
   <tr>
     <td align="center" colspan="2">
-      <img src="1d.gif" alt="Main Demo" width="80%">
+      <img src="1d.gif" alt="Main Demo" width="70%">
       <br>
       <i>Features: Live Location,Crop Suggestions,Govt Scheme</i>
     </td>
