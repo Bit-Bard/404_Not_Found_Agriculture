@@ -130,9 +130,8 @@ Tech Stack
 6) Tavily (search)
 7) MySQL (XAMPP)
 
-
+# Local Setup 
 ```
-Local Setup (Recommended for Hackathons)
 1) Clone + Create Virtual Environment
 git clone https://github.com/Bit-Bard/404_Not_Found_Agriculture.git
 cd agentic_crop_advisor
