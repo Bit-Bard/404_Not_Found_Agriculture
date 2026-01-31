@@ -28,7 +28,7 @@ A production-grade (hackathon-ready) **agentic crop advisory system** that suppo
 
 ---
 
-## Problem Statement (Hackathon)
+## Problem Statement 
 
 Farmers often receive **generic or delayed guidance**, even though decisions depend on **crop stage, weather, local conditions, and symptoms**.
 
