@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/Bit-Bard/404_Not_Found_Agriculture?style=flat-square&color=orange" alt="Repo Size">
   <img src="https://img.shields.io/github/stars/Bit-Bard/404_Not_Found_Agriculture?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/license/Bit-Bard/404_Not_Found_Agriculture?style=flat-square" alt="License">
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source">
 </p>
 
