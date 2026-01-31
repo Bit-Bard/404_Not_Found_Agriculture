@@ -458,6 +458,5 @@ Built with ❤️ by **Dhruv Devaliya** & **Yash Raj**
 
 <br>
 ## DhartiQ : multilingual AI farming assistant” that not only advises but also learns, compares, monitors, alerts, and connects farmers to markets an end-to-end ecosystem rather than just an advisory tool.”
-[![Try DhartiQ Now](https://img.shields.io/badge/🚀%20Try%20DhartiQ%20Now-2AABEE?style=for-the-badge&labelColor=1a1a2e)](https://t.me/DhartiQ_bot)
 
 </div>
