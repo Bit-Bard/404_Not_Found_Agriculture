@@ -69,7 +69,7 @@ This system provides **continuous and contextual guidance** across:
 
 #  Phone Tutorial
 
-[![DhartiQ Mobile Tutorial](https://img.youtube.com/vi/fsKwvcneShw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fsKwvcneShw)
+[![Phone Tutorial](https://img.youtube.com/vi/fsKwvcneShw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fsKwvcneShw)
 
 
 ## Key Features
