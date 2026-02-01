@@ -99,7 +99,7 @@ Agriculture is India's backbone and yet its farmers are among the most underserv
 ## Demo
 
 <div align="center">
-
+## Make sure telegram is downloaded on your system/phone 
 ### Live Bot
 
 **[Launch DhartiQ on Telegram →](https://t.me/DhartiQ_bot)**
